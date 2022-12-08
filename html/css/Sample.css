@@ -1,0 +1,12 @@
+p {
+    font-size:10px;
+    color:rgb(38, 26, 211);
+}
+
+em {
+    font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
